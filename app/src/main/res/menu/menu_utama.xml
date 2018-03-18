@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list_name"
+        android:title="List nama mahasiswa"
+        />
+    <item
+        android:id="@+id/cari_Gambar"
+        android:title="cari gambar"
+        />
+</menu>

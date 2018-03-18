@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AsynTask Breda</string>
+    <string-array name="array">
+        <item>ana</item>
+        <item>Breda</item>
+        <item>syarah</item>
+        <item>Taufan</item>
+        <item>igo</item>
+        <item>yuda</item>
+        <item>dinda</item>
+        <item>jonathan</item>
+        <item>emmanuel</item>
+        <item>mimiqueo</item>
+        <item>karina</item>
+    </string-array>
+</resources>
